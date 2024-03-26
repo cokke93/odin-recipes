@@ -1,0 +1,61 @@
+body {
+    background-color: grey;
+    background-image: url(https://fotografias.larazon.es/clipping/cmsimages01/2021/05/21/5CC93B0A-3A12-47AF-895E-D35176522F8E/98.jpg?crop=3500,1969,x0,y181&width=1900&height=1069&optimize=low&format=webply);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1 {
+    margin: auto;
+    color: burlywood;
+    font-weight: bolder;
+    font-size: 6.5em;
+    text-align: center;
+    width: 50%;
+    border-bottom: 3px outset;
+    text-shadow: 5px 3px 3px white;
+}
+
+header h2 {
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px 3px black;
+}
+
+#paella img {
+    border: 3px outset black;
+    border-radius: 20px;
+    width: 20%;
+    height: auto;
+}
+
+#seafood img {
+    border: 3px outset black;
+    border-radius: 20px;
+    width: 20%;
+    height: auto;
+}
+
+#lobster img {
+    border: 3px outset black;
+    border-radius: 20px;
+    width: 20%;
+    height: auto;
+}
+
+ul li {
+    list-style: none;
+    text-align: center;
+}
+
+a {
+    color: burlywood;
+    font-size: 2em;
+    font-weight: bolder;
+    text-decoration: none;
+    text-shadow: 3px 3px 1px black;
+}
