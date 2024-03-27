@@ -13,8 +13,7 @@ h1 {
     font-weight: bolder;
     font-size: 100px;
     text-align: center;
-    width: 50%;
-    border-bottom: 3px outset;
+    width: 100%;
     text-shadow: -2px -2px 0px black,
     4px 4px 0px black,
     7px 7px 0px black;
@@ -25,6 +24,8 @@ header h2 {
     text-align: center;
     color: white;
     font-weight: bolder;
+    border-top: 3px outset black;
+    width: 50%;
     text-shadow: -2px -2px 0px black
 }
 
