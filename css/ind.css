@@ -9,26 +9,27 @@ body {
 
 h1 {
     margin: auto;
-    color: burlywood;
+    color: gold;
     font-weight: bolder;
-    font-size: 6.5em;
+    font-size: 100px;
     text-align: center;
     width: 50%;
     border-bottom: 3px outset;
-    text-shadow: 5px 3px 3px white;
+    text-shadow: -2px -2px 0px black,
+    4px 4px 0px black,
+    7px 7px 0px black;
 }
 
 header h2 {
     margin: auto;
-    margin-bottom: 15px;
     text-align: center;
     color: white;
     font-weight: bolder;
-    text-shadow: 2px 2px 3px black;
+    text-shadow: -2px -2px 0px black
 }
 
 #paella img, #seafood img, #lobster img {
-    border: 3px outset black;
+    border: 1px outset black;
     border-radius: 20px;
     width: 20%;
     height: auto;
@@ -37,12 +38,13 @@ header h2 {
 ul li {
     list-style: none;
     text-align: center;
+    margin-bottom: 0.6%;
 }
 
 a {
-    color: burlywood;
+    color: gold;
     font-size: 2em;
     font-weight: bolder;
+    text-shadow: -2px -2px 0px black;
     text-decoration: none;
-    text-shadow: 3px 3px 1px black;
 }
