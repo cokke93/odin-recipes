@@ -27,21 +27,7 @@ header h2 {
     text-shadow: 2px 2px 3px black;
 }
 
-#paella img {
-    border: 3px outset black;
-    border-radius: 20px;
-    width: 20%;
-    height: auto;
-}
-
-#seafood img {
-    border: 3px outset black;
-    border-radius: 20px;
-    width: 20%;
-    height: auto;
-}
-
-#lobster img {
+#paella img, #seafood img, #lobster img {
     border: 3px outset black;
     border-radius: 20px;
     width: 20%;
