@@ -36,10 +36,11 @@ header h2 {
     height: auto;
 }
 
+
 ul li {
     list-style: none;
     text-align: center;
-    margin-bottom: 0.6%;
+    margin-top: 0.8%;
 }
 
 a {
